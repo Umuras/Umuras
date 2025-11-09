@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Umur Kucur</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h3 align="center">A passionate game and full-stack developer from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umuras" alt="umuras" /></a> </p>
 
-- 🔭 I’m currently working on **Unity**
+- 🔭 I’m currently working on **Unity**, **Java SpringBoot**, **React**
 
-- 🌱 I’m currently learning **Strange IOC, Zenject, Unity, C#**
+- 🌱 I’m currently learning **Java, SpringBoot, React, Unity, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
